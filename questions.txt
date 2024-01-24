@@ -1,0 +1,26 @@
+1 - Nom, Prénom, Domaine d'études ?
+
+2 - A quelle fréquence tu étudies (jours par semaine) ? Combien de temps ? En groupe ? Seul ?
+	Si seul : As-tu déjà pensé / essayé de travailler en groupe ?
+		Si non : Aimerais-tu ? Est-ce que cela te dérangerait ?
+
+	Si groupe : Avec bomein de personnes ? Souvent ? Connais-tu ces personnes ?
+		Aimerais tu travailler avec des gens que tu ne connais pas ?
+
+3 - C'était quand la dernière fois que tu as étudié en groupe ? Où ? Pourquoi ? A quel moment ?
+
+4 - Est-ce que tu t'es déjà posé des questions auxquelles tu n'as pas eu de réponse ? (De qqn ou sur internet)
+
+5 - As-tu déjà travaillé avec des personnes que tu ne connaissais pas ? Est-ce qu'il y'a eu des problèmes ? Aurais-tu changé des choses ?
+
+6 - As-tu déjà rencontré des problèmes pour trouver un endroit ou étudier ? Un espace autre qu'une BU / Bibliothèque ? Seul / En groupe ?
+
+7 - Difficulté à trouver des disponibilités ?
+
+8 - Avant / Après la session de travail ? (En "récompense" de travail, après l'effort, le réconfort !)
+
+9 - Fais-tu des pauses pendant tes sessions de travail ? (Pour un café, une petite colation, autre...)
+
+10 - Comment aimerais-tu étudier ?
+
+11 - Est-ce que ça te dérangerais de travailler avec des gens que tu ne connais pas ?
