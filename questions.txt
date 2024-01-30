@@ -4,7 +4,7 @@
 	Si seul : As-tu déjà pensé / essayé de travailler en groupe ?
 		Si non : Aimerais-tu ? Est-ce que cela te dérangerait ?
 
-	Si groupe : Avec bomein de personnes ? Souvent ? Connais-tu ces personnes ?
+	Si groupe : Avec combien de personnes ? Souvent ? Connais-tu ces personnes ?
 		Aimerais tu travailler avec des gens que tu ne connais pas ?
 
 3 - C'était quand la dernière fois que tu as étudié en groupe ? Où ? Pourquoi ? A quel moment ?
